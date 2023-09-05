@@ -1,0 +1,37 @@
+.catchphrase {
+    font-size: 50px;
+
+}
+.join{
+    font-size: 30px;
+
+}
+button {
+    height: 40px;
+    width: 350px;
+    background-color: transparent;
+    border-radius: 30px;
+    background-color: transparent;
+    margin: 5px;
+    text-decoration: solid;
+
+    
+}
+.or{
+    text-align: center;
+    margin-right: 950px;
+}
+
+#create{
+    background-color: blue;
+    color: white;
+    
+
+}
+#sign{
+    color: blue;
+
+}
+span{
+    color: blue;
+}
